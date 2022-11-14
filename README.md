@@ -23,6 +23,7 @@ SORT
 2. Sort by mass
 3. Sort by height
 4. Sort by gender
+5. Sort decreasing height
 
 EVERY
 1. Does every character have black eyes?
